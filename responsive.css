@@ -1,0 +1,228 @@
+@media all and (max-width: 589px) {
+
+  .beranda {
+    padding-top: 35%;
+  }
+  .beranda h1 {
+    font-size: 250%;
+    text-align: center;
+  }
+
+  header img {
+    display: block;
+  }  
+  .header-list {
+    
+      display: none;
+    }
+  .beranda .potentional {
+    width:100%;
+  }
+  h2.pembatas {
+    padding-top: 159%;
+  }
+  #animContainer {
+    width: 50%;
+    text-align: center;
+    margin-left: 26%;
+  }
+  #animContainer2 {
+  width: 50%;
+  text-align: center;
+  margin-left: 26%;
+  }
+  #animContainer3 {
+  width: 50%;
+  text-align: center;
+  margin-left: 26%;
+  }
+  .potentionals {
+    text-align: center;
+  }
+  .tentang {
+    height: 40%;
+    padding-bottom: 50px;
+  }
+  .tentang p {
+  margin-top: 0%;
+  padding-top: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+  font-size: 80%;
+  }
+  .tentang h3 {
+    border-bottom:2px solid #57837B;
+    padding-bottom:5%;
+    margin-bottom:5%;
+    font-size:130%;
+    text-align: center;
+    color:#515E63;
+    padding-top:5%;
+    font-weight: normal;
+  }
+  .tentang h1 {
+    margin-bottom: 5%;
+    font-size: 165%;
+  }
+}
+
+@media(max-width: 1680px) {
+  .navigation-manual, .navigation-auto {
+      margin-top: 660px;
+  }
+}
+
+@media all and (max-width: 1450px) {
+  .profile li {
+      font-size: 17px;
+  }
+
+  .profile p {
+      font-size: 17px;
+  }
+
+  .profile li b {
+      font-size: 20px;
+  }
+
+  .profile .list {
+      padding-top: 50px;
+  }
+  
+
+}
+
+@media all and (max-width: 1280px) {
+  .profile img {
+      width: 200px;
+      height: 200px;
+      border-radius: 15%;
+  }
+
+  .profile {
+      height: 240px;
+  }
+
+  .profile .list {
+      padding-top: 30px;
+  }
+}
+
+@media all and (max-width:1140px) {
+  .main {
+      height: 800px;
+  }
+  .profile img {
+      width: 150px;
+      height: 150px;
+      border-radius: 1%5;
+  }
+
+  .profile {
+      height: 190px;
+  }
+
+  .profile .list {
+      padding-top: 30px;
+  }
+
+  .profile li {
+      font-size: 10px;
+  }
+
+  .profile p {
+      font-size: 10px;
+  }
+
+  .profile li b {
+      font-size: 13px;
+  }
+}
+
+@media all and (max-width:360px) {
+  .header-list {
+      display: none;
+    }
+    
+    .menu-icon {
+      display: block;
+      padding-top: 5px;
+    }
+
+  .profile {
+      width: 100%;
+      height: auto;
+  }
+
+  .container {
+      width: 98%;
+  }
+
+  .profile img {
+      padding-top: 30px;
+      width: 80%;
+      height: auto;
+      border-radius: 10%;
+  }
+
+  .left {
+      float: none;
+  }
+
+  .right {
+      float: none;
+  }
+
+  .one {
+      text-align: center;
+  }
+
+  .two {
+      text-align: center;
+  }
+
+  .profile li b {
+      font-size: 27px;
+  }
+
+  .profile li {
+      font-size: 25px;
+  }
+
+  .profile p {
+      font-size: 25px;
+      padding-bottom: 30px;
+  }
+
+  .main {
+      height:auto;
+      padding-bottom: 30px;
+  }
+  .daftar-desa {
+    padding-top: 100px;
+    height: 1450px;
+  }
+  .profile li {
+    margin-left: 9%;
+    list-style: none;
+    font-size: 10px;
+    padding-top: 5px;
+  }
+  .profile li b {
+    font-size: 10px;
+  }
+  .profile a {
+    padding-top: 200px;
+    font-size: 7px;
+    margin-left: 55%;
+  }
+  .profile img {
+    width: 250px;
+    height: 250px;
+    border-radius: 20%;
+    margin-left: 5%;
+  } 
+  .desa .list {
+    padding-top: 3px;
+  }
+}
